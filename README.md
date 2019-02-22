@@ -1,4 +1,5 @@
 # command-plugin-demo
+使用Commander注册命令小demo
 
 ## Project setup
 ```
