@@ -1,6 +1,8 @@
 # command-plugin-demo
 使用Commander注册命令小demo
 
+## [插件详细示例](https://juejin.im/post/5c73d879e51d454b4755603f#heading-7)
+
 ## Project setup
 ```
 npm install
